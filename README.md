@@ -19,7 +19,8 @@ B.Tech., Applied Geophysics Federal University of Technology Akure
 ## Projects
 ### Comparative Analysis of Industry Emissions
 The analysis highlights the importance of understanding emission trends and patterns to formulate effective strategies for emission reduction and environmental sustainability. By addressing emissions at both industry and policy levels, we can work towards a cleaner and more sustainable future.
-![EEG Band Discovery](/assets/gastype.png)
+
+![Greenhouse gast effect types](/assets/gastype.png)
 
 
 
