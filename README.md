@@ -15,6 +15,13 @@ Data Analyst(Intern) @ JIT Solutions (_January 2024 - Present_)
 Undergraduate Intern (Geophysicist) @ RUWASSA (_June 2019 - December 2019_)
 - Used strong analytical and problem-solving skills to develop effective solutions for challenging situations.
 - Assisted with day-to-day operations, working efficiently and productively with all team members.
+- Used strong analytical skills and problem solving for electrical resistivity data and interpretation of geophysical results for groundwater exploration projects
+- Resolved problems, improved operations and provided exceptional service.
+- Provided professional services and support in a dynamic work environment.
+- Developed strong communication and organizational skills through working on group projects.
+- Assistant site surveyor to supervise on-going projects and site works
+- Learnt use of relevant tools and equipment in surveying and borehole drilling
+
 
 ## Projects
 ### Comparative Analysis of Industry Emissions
