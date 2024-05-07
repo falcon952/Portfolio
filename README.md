@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, Excel, Power BI, Tableau
 
 ## Education
-B.Tech., Applied Geophysics Federal University of Technology Akure
+B.Tech., Applied Geophysics | Federal University of Technology Akure
 
 ## Work Experience
 **Data Analyst(Intern) @ JIT Solutions (_January 2024 - Present_)
