@@ -29,6 +29,22 @@ The analysis highlights the importance of understanding emission trends and patt
 
 ![Greenhouse gast effect types](/assets/gastype.png)
 
+### Comprehensive Analysis of Global Video Game Sales: Trends, Insights, and Visualizations
+
+In this project, I conducted an in-depth analysis of a comprehensive video game sales dataset spanning from 1980 to 2020. The primary goal was to uncover trends, insights, and key metrics in the video game industry, focusing on sales distributions across different regions, genres, and platforms. 
+
+![Video games distribution](/assets/total_sales_region.png)
+
+Through this project, I demonstrated my ability to handle large datasets, perform detailed analysis, and derive meaningful insights. The project showcases my proficiency in data analytics techniques and my passion for uncovering patterns and trends in the gaming industry.
+
+
+
+### Key Technologies Used
+Pandas: For data manipulation and analysis.
+Matplotlib & Seaborn: For creating detailed and informative visualizations.
+Python: For scripting and automating the analysis process.
+
+
 
 
 
